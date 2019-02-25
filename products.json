@@ -1,0 +1,69 @@
+{
+  "products": [{
+      "id": "1",
+      "name": "iPhone XS",
+      "image": "images/iPhoneXS.png",
+      "price": "$30000",
+      "colors": ["grey", "black", "golden"],
+      "condition": "Fresh",
+      "description": "大螢幕上見。",
+      "size" : "5.8吋",
+      "space" : ["64GB", "256GB", "512GB"]
+    },
+    {
+      "id": "2",
+      "name": "iPhone XS Max",
+      "image": "images/iPhoneXSMax.png",
+      "price": "$35000",
+      "colors": ["grey", "black", "golden"],
+      "condition": "Frozen",
+      "description": "歷來最大的顯示器",
+      "size" : "6.5吋",
+      "space" : ["64GB", "256GB", "512GB"]
+    },
+    {
+      "id": "3",
+      "name": "iPhone XR",
+      "image": "images/iPhoneXR.png",
+      "price": "$25000",
+      "colors": ["blue", "white", "black", "yellow", "red"],
+      "condition": "Frozen",
+      "description": "哪一面，都耀眼。",
+      "size" : "6.1吋",
+      "space" : ["64GB", "128GB", "256GB"]
+    },
+    {
+      "id": "4",
+      "name": "iPhone X",
+      "image": "images/iPhoneX.png",
+      "price": "$38000",
+      "colors": ["grey","black"],
+      "condition": "Fresh",
+      "description": "機身正反面配備全玻璃",
+      "size" : "5.8吋",
+      "space" : ["64GB", "256GB"]
+    },
+    {
+      "id": "5",
+      "name": "iPhone 8 Plus",
+      "image": "images/iPhone8Plus.png",
+      "price": "$38000",
+      "colors": ["grey", "black", "golden"],
+      "condition": "Fresh",
+      "description": "全新升級的相機鏡頭",
+      "size" : "5.5吋",
+      "space" : ["64GB", "256GB"]
+    },
+    {
+      "id": "6",
+      "name": "iPhone 8",
+      "image": "images/iPhone8.png",
+      "price": "$38000",
+      "colors": ["grey","black"],
+      "condition": "Fresh",
+      "description": "經典 touchID",
+      "size" : "4.7吋",
+      "space" : ["64GB", "256GB"]
+    }
+  ]
+}
